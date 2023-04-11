@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="239.0" prefWidth="692.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.MainController">
+   <children>
+      <VBox prefHeight="239.0" prefWidth="693.0">
+         <children>
+            <HBox prefHeight="189.0" prefWidth="693.0">
+               <children>
+                  <HBox prefHeight="160.0" prefWidth="693.0">
+                     <children>
+                        <Rectangle fx:id="r1" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r2" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r3" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r4" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r5" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r6" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r7" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r8" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r9" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r10" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r11" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r12" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r13" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r14" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r15" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r16" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r17" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r18" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r19" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r20" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r21" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r22" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                       	<Rectangle fx:id="r23" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r24" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r25" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r26" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r27" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r28" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r29" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r30" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r31" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r32" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r34" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r33" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r35" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r36" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r37" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r38" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r39" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r40" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r41" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r42" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                       	<Rectangle fx:id="r43" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r44" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r45" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r46" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r47" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r48" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r49" fill="#03c51d" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r50" fill="#29ff00" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r51" fill="#03c51d" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r52" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                       	<Rectangle fx:id="r53" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r54" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r55" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r56" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r57" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r58" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r59" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r60" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r61" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r62" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r63" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r64" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r65" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r66" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r67" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r68" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r69" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r70" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r71" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r72" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                       	<Rectangle fx:id="r73" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r74" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r75" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r76" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r77" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r78" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r79" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r80" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r81" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r82" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r83" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r84" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r85" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r86" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r87" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r88" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r89" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r90" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r91" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r92" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                       	<Rectangle fx:id="r93" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r94" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r95" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r96" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r97" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r98" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        <Rectangle fx:id="r99" fill="RED" height="200.0" smooth="false" stroke="TRANSPARENT" strokeType="INSIDE" width="7.0" />
+                        
+                      </children>
+                  </HBox>
+               </children>
+            </HBox>
+            <HBox alignment="BOTTOM_CENTER" layoutY="100.0" prefHeight="0.0" prefWidth="693.0" VBox.vgrow="ALWAYS">
+               <children>
+                  <Pane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <Text fx:id="frequency" layoutY="25.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                     </children>
+                  </Pane>
+                  <Pane prefHeight="34.0" prefWidth="200.0">
+                     <children>
+                        <Text fx:id="label" layoutX="65.0" layoutY="28.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" wrappingWidth="73.13824462890625">
+                           <font>
+                              <Font size="29.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="octave" layoutX="131.0" layoutY="20.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                     </children>
+                  </Pane>
+                  <Pane prefHeight="200.0" prefWidth="200.0" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
