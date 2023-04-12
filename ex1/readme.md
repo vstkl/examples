@@ -1,6 +1,4 @@
 
-1
-Page 1 of 2 
  
 Prepare service using WSGI standard with three endpoints: 
 1.  by sending text to endpoint via POST method return JSON containing lowercase 
@@ -21,6 +19,7 @@ d)  Describe all necessary steps to deploy the service like this
 e)  Use spaCy to compare lemmas of words (describe significant performance drop) 
  
 Example calling first endpoint 
+```
 POST /filter_words 
 Content-Type: text/plain 
 Content-Length: 1341 
@@ -42,17 +41,19 @@ exactly how much power the President of the Galaxy actually wielded: none at all
 people in the Galaxy knew that the job of the Galactic President was not to wield power but 
 to attract attention away from it. 
 Zaphod Beeblebrox was amazingly good at his job. 
+```
+
 Example of response 
+```
 HTTP/1.1 200 OK 
 Connection: close 
 Content-type: application/json 
  
 {"filter_words": ["maximegalacticians", "octopodic", "physucturalist", ...]} 
  
-   
-Page 2 of 2 
- 
+```
 Example request for second endpoint 
+```
 POST /filter_pairs 
 Content-Type: text/plain 
 Content-Length: 1341 
@@ -62,16 +63,19 @@ It consisted in large part of the engineers and researchers who had built the
 Heart of Gold—mostly humanoid, but here and there were a few reptiloid atomineers, 
 two or three green sylphlike maximegalacticians, an octopodic physucturalist or 
 two and a Hooloovoo (a Hooloovoo is a superintelligent shade of the color blue)... 
- 
-Example of response for second endpoint 
+```
+Example of response for second endpoint
+```
 HTTP/1.1 200 OK 
 Connection: close 
 Content-type: application/json 
  
 {"filter_pairs": [["sylphlike", "maximegalacticians"], ["maximegalacticians", 
 "an"], ["an", "octopodic"], ["physucturalist", "or"], ...]} 
- 
+```
 Example calling third endpoint 
+
+```
 POST /filter_counts 
 Content-Type: text/plain 
 Content-Length: 1341 
@@ -81,10 +85,11 @@ It consisted in large part of the engineers and researchers who had built the
 Heart of Gold—mostly humanoid, but here and there were a few reptiloid atomineers, 
 two or three green sylphlike maximegalacticians, an octopodic physucturalist or 
 two and a Hooloovoo (a Hooloovoo is a superintelligent shade of the color blue)... 
- 
+```
 Example of response 
+```
 HTTP/1.1 200 OK 
 Connection: close 
 Content-type: application/json 
- 
 {"filter_counts": {"dictwords": 376, "non-dictwords": 42}} 
+```
