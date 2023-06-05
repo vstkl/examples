@@ -1,0 +1,4 @@
+[submodule "gaba"]
+	path = gaba
+	url = https://github.com/vstkl/gaba.git
+	branch = master
