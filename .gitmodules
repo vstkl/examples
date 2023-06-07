@@ -2,3 +2,6 @@
 	path = gaba
 	url = https://github.com/vstkl/gaba.git
 	branch = master
+[submodule "html-css-example"]
+	path = html-css-example
+	url = https://github.com/vstkl/html-css-example.git
