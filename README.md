@@ -4,4 +4,4 @@ This is portfolio to demonstrate some of my code for purposes of job interviews,
 
 Does not demonstrate my full skillset.
 
-As was told to me, some of repositories I dig up from some interesting projects, from dark ages before I knew versioning, so I guess that's it.
+As I was told, some of repositories I dug up from some interesting projects, from the dark ages before I knew versioning, so I guess that's it.
